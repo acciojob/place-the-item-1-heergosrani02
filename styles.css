@@ -1,2 +1,25 @@
+.holder{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
 
-/* Your CSS Code here. */
+.item{
+	display:flex;
+	flex-wrap: wrap;
+}
+
+.green{
+	background: green;
+	padding: 10px;
+}
+
+.red{
+	background: red;
+	padding: 10px;
+}
+
+.blue{
+	background: blue;
+	padding: 10px;
+}
